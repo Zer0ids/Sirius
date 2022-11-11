@@ -23,7 +23,7 @@ for font, index in next, Drawing.Fonts do
 end
 
 -- libraries
-local uiLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))();
+local uiLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zer0ids/Orion/main/source"))();
 local espLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Sirius/main/library/esp/esp.lua"))();
 
 -- functions
